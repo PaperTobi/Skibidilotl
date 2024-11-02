@@ -1,4 +1,4 @@
-$link = "https://github.com/Equicord/Equilotl/releases/latest/download/EquilotlCli.exe"
+$link = "https://github.com/PaperTobi/Skibidilotl/releases/latest/download/SkibidilotlCli.exe"
 
 $outfile = "$env:TEMP\EquilotlCli.exe"
 
